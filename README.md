@@ -5,3 +5,4 @@ GeoSpatial Logging using PostGIS and deployable to OpenSHIFT gear. Uses Leaflet.
 
 This is ment as a platform for testing ideas for display. Additionally it makes logging geolocation data from independant mobile devices easy.
 
+An example is live [here](http://location-caffeinesqurr.rhcloud.com/).
